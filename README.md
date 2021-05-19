@@ -29,7 +29,6 @@ I am a developer who is passionate about cybercecurity, deep learning and mobile
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=harou24&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=harou24&hide=css,java,html&theme=tokyonight">
 </p>
 
 </details>

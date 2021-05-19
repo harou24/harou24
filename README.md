@@ -23,7 +23,7 @@ I am a developer who is passionate about cybercecurity, deep learning and mobile
 ---
 
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary><b>My Github Stats</b>: </summary>
 
 <br>
 

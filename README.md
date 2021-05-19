@@ -2,7 +2,7 @@
 
 I am a developer who is passionate about cybercecurity, deep learning and mobile programming. Few tech that I enjoy working in are C, C++, Docker and Flutter.
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in C, C++, competitive programming, data structures and algorithms.
+- 💻 Currently working, learning and growing my skillset in C, C++, competitive programming, data structures and algorithms.
 - 🤝 Open for collaborations.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time in C++ programming project.

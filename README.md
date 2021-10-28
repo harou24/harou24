@@ -5,7 +5,6 @@ I am a developer who is passionate about cybercecurity, deep learning and mobile
 - 💻 Currently working, learning and growing my skillset in C, C++, competitive programming, data structures and algorithms.
 - 🤝 Open for collaborations.
 - 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time in C++ programming project.
 - 🌐 Visit my [porfolio website](https://harou24.github.io/) for complete background and contact.
 
 <details open>

@@ -1,11 +1,26 @@
 ## Hi 👋 I'm Harou ! 
 
-I am a developer who is passionate about cybercecurity, deep learning and mobile programming. Few tech that I enjoy working in are C, C++, Docker and Flutter.
+I am a full stack software engineer currently working at South Pole, the world's largest climate solutions and carbon offset project provider.
 
-- 💻 Currently working, learning and growing my skillset in C, C++, competitive programming, data structures and algorithms.
+Few tech that I enjoy working in are C, C++, Golang, Python, JavaScirpt, Docker and Flutter.
+
+- 💻 Currently working on a browser extension for webshop owners to provide their customers with the possibility to offset their carbon footprint at South Pole.
+- :closed_book: Learning and growing my skill set at Codam Coding College, a school without teachers nor classes that brings passionate people together.
+- :heart: Mixing programming with electronics.
+- 😊 Willing to contribute in open source development projects.
 - 🤝 Open for collaborations.
-- 😊 Willing to contribute in opensource development projects.
 - 🌐 Visit my [porfolio website](https://harou24.github.io/) for complete background and contact.
+
+Personal projects I am working on at the moment:
+- Implementing crypto trading bots in python with various trading techniques.
+- Arduino projects related to wireless communication such as RFID/NFC, Wifi and Bluetooth.
+
+Passionnate about:
+- Cybersecurity
+- Electronics
+- Science in general
+- Finance and business
+
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>

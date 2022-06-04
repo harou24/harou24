@@ -4,7 +4,7 @@ I am a full stack software engineer currently working at South Pole, the world's
 
 Few tech that I enjoy working in are C, C++, Golang, Python, JavaScirpt, Docker and Flutter.
 
-- 💻 Currently working on a browser extension for webshop owners to provide their customers with the possibility to offset their carbon footprint at South Pole.
+- 💻 Currently working on a e-commerce extension for webshop owners to provide their customers with the possibility to offset their carbon footprint at South Pole.
 - :closed_book: Learning and growing my skill set at Codam Coding College, a school without teachers nor classes that brings passionate people together.
 - :heart: Mixing programming with electronics.
 - 😊 Willing to contribute in open source development projects.

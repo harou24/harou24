@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Harou ! 
 
-I am a full stack software engineer currently working at South Pole, the world's largest climate solutions and carbon offset project provider.
+I am a full stack software engineer currently working at South Pole.
 
 Few tech that I enjoy working in are C, C++, Golang, Python, JavaScirpt, Docker and Flutter.
 

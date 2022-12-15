@@ -12,7 +12,6 @@ Few tech that I enjoy working in are C, C++, Golang, Python, JavaScirpt, Docker 
 - 🌐 Visit my [porfolio website](https://harou24.github.io/) for complete background and contact.
 
 Personal projects I am working on at the moment:
-- Implementing crypto trading bots in python with various trading techniques.
 - Arduino projects related to wireless communication such as RFID/NFC, Wifi and Bluetooth.
 
 Passionnate about:

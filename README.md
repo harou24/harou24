@@ -1,23 +1,3 @@
-## Hi 👋 I'm Harou ! 
-
-I am a full stack software engineer currently working at South Pole.
-
-Few tech that I enjoy working in are C, C++, Golang, Python, JavaScirpt, Docker and Flutter.
-
-- 💻 Currently working on a e-commerce extension for webshop owners to provide their customers with the possibility to offset their carbon footprint at South Pole.
-- :heart: Mixing programming with electronics.
-- 😊 Willing to contribute in open source development projects.
-- 🤝 Open for collaborations.
-- 🌐 Visit my [porfolio website](https://harou24.github.io/) for complete background and contact.
-
-Personal projects I am working on at the moment:
-- Arduino projects related to wireless communication such as RFID/NFC, Wifi and Bluetooth.
-
-Passionnate about:
-- Cybersecurity
-- Electronics
-- Science in general
-- Finance and business
 
 
 <details open>
